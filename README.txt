@@ -1,3 +1,4 @@
+**Note: ** Quantized (int 8) FOMO model library including inference script: model.cpp 
 
 # Edge Impulse library for RoadUsers
 
